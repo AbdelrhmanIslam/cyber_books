@@ -1,11 +1,12 @@
-![Cyber Security Banner](https://raw.githubusercontent.com/Abdalrhman-Islam/cyber_books/main/banner.jpg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status Badge" />
   <img src="https://img.shields.io/badge/License-Educational-blue" alt="License Badge" />
-  <img src="https://img.shields.io/github/languages/top/Abdalrhman-Islam/cyber_books" alt="Top Language" />
-  <img src="https://img.shields.io/github/downloads/Abdalrhman-Islam/cyber_books/total?color=success" alt="Downloads" />
-  <img src="https://img.shields.io/github/stars/Abdalrhman-Islam/cyber_books?style=social" alt="GitHub Stars" />
 </p>
 
 # 🛡️ Cyber Security eBooks Collection
@@ -50,7 +51,7 @@ Welcome to the **Cyber Security eBooks Repository** — a curated collection of 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AbdelrhmanIslam/cyber_books.git
    ```
 2. Navigate into the directory:
 
@@ -72,3 +73,6 @@ If you found this collection helpful, feel free to star ⭐ the repository or co
 For suggestions or feedback, open an [issue on GitHub](https://github.com/your-username/your-repo-name/issues) or connect on LinkedIn.
 
 > “The quieter you become, the more you are able to hear.” – **Ram Dass**
+
+
+<p>© 2025 Abdelrhman Islam • All Rights Reserved</p>
